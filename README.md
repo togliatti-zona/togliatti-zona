@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is Brandon, and I'm studying Applied Computing at the University of Arizona with an emphasis on software development.
+GitHub is entirely new to me, and it's a little difficult to get things going the way that they need to work.
+Progress is slow, but I'm working on getting up and running to learn for CYBV473!
 <!--
 **togliatti-zona/togliatti-zona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
